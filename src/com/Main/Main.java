@@ -1,8 +1,9 @@
 package com.Main;
 
-/**
- * Created by EgorK on 20.07.2016.
- */
-public class Main {
-
+public class Main
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hi my World!");
+    }
 }
