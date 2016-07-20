@@ -4,7 +4,6 @@ import java.util.HashMap;
 
 public class Main
 {
-
     static {
         System.out.print("Way");
     }
